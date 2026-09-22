@@ -4,7 +4,7 @@ Website institucional da **Boreal Plating**, desenvolvido para apresentar a empr
 
 > **Esta é a versão 2 do website institucional da Boreal Plating.**
 >
-> O projeto representa uma evolução visual e estrutural da primeira versão do site, com nova organização de conteúdo, identidade visual aprimorada, páginas individuais e maior foco na apresentação das capacidades industriais da empresa.
+> 
 
 ---
 
